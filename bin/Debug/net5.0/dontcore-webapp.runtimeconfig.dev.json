@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/xrian/.dotnet/store/|arch|/|tfm|",
+      "/home/xrian/.nuget/packages"
+    ]
+  }
+}
