@@ -1,1 +1,1 @@
-# My pratice dontcore-webapp
+# My pratice app dontcore-webapp
